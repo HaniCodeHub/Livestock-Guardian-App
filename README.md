@@ -1,6 +1,6 @@
 # Livestock Guardian 🐄
 
-![Livestock Guardian](screenshots/0_livestock_guardian_logo.jpeg)
+![Livestock Guardian](screenshots/0_livestock_guardian_logo.png)
 
 AI-Powered Livestock Identification & Theft Prevention System
 
