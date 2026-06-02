@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Livestock Guardian</string>
+    <string name="check_api_status">Checking API Status…</string>
+    <string name="add_livestock">Add Livestock</string>
+    <string name="api_online">Biometric API: Online</string>
+    <string name="api_offline">Biometric API: Offline</string>
+    <string name="register_animal">Register Animal</string>
+    <string name="tag_number">Tag Number</string>
+    <string name="breed_label">Breed</string>
+    <string name="age_label">Age (Years)</string>
+    <string name="weight_label">Weight (Kg)</string>
+    <string name="health_status">Health Status</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="save_animal">Save Animal</string>
+    <string name="scan_muzzle">Scan Muzzle</string>
+    <string name="animal_profile">Animal Profile</string>
+    <string name="report_theft">Report Theft</string>
+
+    <string name="welcome_farmer">Welcome, %1$s!</string>
+    <string name="total_animals">Total Animals</string>
+    <string name="healthy">Healthy</string>
+    <string name="stolen">Stolen</string>
+    <string name="total_animals_label">Total Animals</string>
+    <string name="healthy_label">Healthy</string>
+    <string name="stolen_label">Stolen</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="scan">Scan</string>
+    <string name="profile">Profile</string>
+    <string name="add_new_animal">Add New Animal</string>
+    <string name="your_livestock">Your Livestock</string>
+
+    <string name="animal_name">Animal Name</string>
+    <string name="species">Species</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="color">Color</string>
+    <string name="notes">Notes</string>
+    <string name="take_muzzle_photo">Take Muzzle Photo</string>
+    <string name="submit_registration">Submit Registration</string>
+    <string name="register_new_animal">Register New Animal</string>
+
+    <string name="stolen_alert">⚠️ RED ALERT: THIS ANIMAL IS REPORTED STOLEN!</string>
+    <string name="match_confidence">Match Confidence: %1$d%%</string>
+    <string name="confirmed_match">CONFIRMED MATCH</string>
+    <string name="warning_match">WARNING</string>
+    <string name="no_match">NO MATCH</string>
+    <string name="view_full_profile">View Full Profile</string>
+    <string name="scan_another">Scan Another Animal</string>
+    <string name="owner_label">Owner: %1$s</string>
+    <string name="align_muzzle">Align muzzle inside the frame</string>
+    <string name="scan_muzzle_btn">SCAN MUZZLE</string>
+    <string name="camera_permission_required">Camera permission is required to scan muzzles</string>
+    <string name="gemini_key_hint">Add GEMINI_API_KEY=your_key to local.properties and rebuild</string>
+</resources>
