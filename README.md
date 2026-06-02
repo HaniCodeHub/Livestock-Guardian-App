@@ -1,4 +1,4 @@
-![Livestock Guardian](screenshorts/0. livestock_guardian_logo.png)
+![Livestock Guardian](screenshorts/0_livestock_guardian_logo.png)
 
 # Livestock Guardian
 
