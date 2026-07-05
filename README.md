@@ -1,5 +1,7 @@
 # Livestock Guardian 🐄
 
+![Livestock Guardian](screenshorts/0_livestock_guardian_logo.png)
+
 AI-Powered Livestock Identification & Theft Prevention System
 
 An Android application that uses biometric muzzle recognition, artificial intelligence, and cloud technologies to uniquely identify livestock, verify ownership, and reduce animal theft.
