@@ -6,6 +6,8 @@ AI-Powered Livestock Identification & Theft Prevention System
 
 An Android application that uses biometric muzzle recognition, artificial intelligence, and cloud technologies to uniquely identify livestock, verify ownership, and reduce animal theft.
 
+This project is actively being improved for practical farm and livestock management use.
+
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-blue)
 ![Database](https://img.shields.io/badge/Database-Supabase-green)
