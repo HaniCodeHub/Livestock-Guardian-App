@@ -56,7 +56,7 @@ The application enables farmers and livestock owners to:
 
 ## 📸 Screenshots
 
-(Add more here later)
+Screenshots will be added as the app UI and core features are finalized.
 
 ---
 
