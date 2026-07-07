@@ -34,7 +34,7 @@ This system solves the problem using **biometric muzzle recognition** to create 
 
 ## 💡 Solution
 
-The application enables farmers to:
+The application enables farmers and livestock owners to:
 
 - Register livestock  
 - Capture muzzle biometric data  
