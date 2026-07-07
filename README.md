@@ -68,7 +68,7 @@ Each animal is uniquely identified using muzzle patterns (similar to fingerprint
 
 ## 📦 Setup Instructions
 
-(Add later if needed)
+Setup steps will be documented as the Android app and backend services are finalized for public use.
 
 ---
 
