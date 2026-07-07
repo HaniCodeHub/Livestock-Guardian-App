@@ -47,10 +47,10 @@ The application enables farmers and livestock owners to:
 
 ## ⚙️ Tech Stack
 
-- Android (Kotlin/Java)
-- FastAPI Backend
-- Supabase Database
-- AI / Computer Vision (Muzzle Recognition)
+- Android (Kotlin/Java) for the mobile experience
+- FastAPI Backend for API services
+- Supabase Database for storage and authentication
+- AI / Computer Vision (Muzzle Recognition) for animal identification
 
 ---
 
