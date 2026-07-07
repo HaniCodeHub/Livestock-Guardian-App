@@ -23,7 +23,7 @@ The app is designed to be practical, scalable, and useful for modern livestock m
 
 Livestock theft and ownership disputes are major challenges in agriculture, especially for small and medium-scale farmers.
 
-Traditional methods like ear tags, branding, and paper records can be:
+Traditional methods like ear tags, branding, and paper records can be fragile and easy to exploit:
 - Forged
 - Removed
 - Lost
