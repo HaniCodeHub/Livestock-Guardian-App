@@ -42,6 +42,7 @@ The application enables farmers and livestock owners to:
 - Verify ownership  
 - Report stolen animals  
 - Maintain ownership history  
+- Access a clearer record of each animal over time  
 
 ---
 
