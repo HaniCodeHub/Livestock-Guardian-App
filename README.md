@@ -62,7 +62,7 @@ Screenshots will be added as the app UI and core features are finalized.
 
 ## 🧠 Key Feature
 
-Each animal is uniquely identified using muzzle patterns (similar to fingerprints in humans).
+Each animal is uniquely identified using muzzle patterns, which are highly distinctive and well suited for reliable ownership verification.
 
 ---
 
