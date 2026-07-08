@@ -76,3 +76,5 @@ Setup steps will be documented as the Android app and backend services are final
 ## 📄 License
 
 This project is released under the MIT License.
+
+<!-- README update 1 -->
