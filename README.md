@@ -21,37 +21,44 @@ The app is designed to be practical, scalable, and useful for modern livestock m
 
 ## 📌 Problem Statement
 
-Livestock theft and ownership disputes are major challenges in agriculture, especially for small and medium-scale farmers.
+Livestock theft and ownership disputes are significant challenges in agriculture worldwide, affecting small and medium-scale farmers most severely.
 
-Traditional methods like ear tags, branding, and paper records can be fragile and easy to exploit:
-- Forged
-- Removed
-- Lost
+**Traditional identification methods have critical limitations:**
+- **Ear tags & bands** — Can be removed or replaced
+- **Branding** — Can be altered or obscured
+- **Paper records** — Easily lost, forged, or damaged
+- **No digital verification** — Difficult to prove ownership in disputes
 
-This system solves the problem using **biometric muzzle recognition** to create a unique digital identity for each animal.
+Our solution uses **biometric muzzle recognition** to create an immutable, unique digital identity for each animal that cannot be altered or duplicated.
 
 ---
 
 ## 💡 Solution
 
-The application enables farmers and livestock owners to:
+**Livestock Guardian** provides farmers and livestock owners with:
 
-- Register livestock  
-- Capture muzzle biometric data  
-- Identify animals using AI  
-- Verify ownership  
-- Report stolen animals  
-- Maintain ownership history  
-- Access a clearer record of each animal over time  
+- **Quick Registration** — Add animals to your inventory with basic details
+- **Biometric Capture** — Photograph the animal's muzzle (highly distinctive pattern)
+- **AI-Powered Identification** — Instantly identify animals from new photos
+- **Ownership Verification** — Prove ownership with cryptographic proof
+- **Theft Reporting** — Flag stolen animals in the system
+- **Complete History** — Maintain detailed ownership and health records
+- **Cloud Sync** — Access your livestock data across devices
+- **Searchable Database** — Find animals by various criteria  
 
 ---
 
 ## ⚙️ Tech Stack
 
-- Android (Kotlin/Java) for the mobile experience
-- FastAPI Backend for API services
-- Supabase Database for storage and authentication
-- AI / Computer Vision (Muzzle Recognition) for animal identification
+| Component | Technology |
+|-----------|------------|
+| **Mobile App** | Kotlin/Java (Android SDK) |
+| **Backend API** | FastAPI (Python) |
+| **Database** | Supabase (PostgreSQL) |
+| **Authentication** | Supabase Auth |
+| **AI Engine** | Computer Vision (Muzzle Recognition) |
+| **Cloud Hosting** | Supabase Cloud |
+| **Image Storage** | Supabase Storage |
 
 ---
 
@@ -61,38 +68,58 @@ Screenshots will be added as the app UI and core features are finalized.
 
 ---
 
-## 🧠 Key Feature
+## 🔐 Core Technology: Muzzle Biometrics
 
-Each animal is uniquely identified using muzzle patterns, which are highly distinctive and well suited for reliable ownership verification.
+Each animal possesses a **unique muzzle pattern** that is:
+
+- **Distinctive** — No two animals have identical muzzle patterns
+- **Stable** — Patterns remain consistent throughout the animal's life
+- **Difficult to Forge** — Cannot be easily replicated or altered
+- **Non-invasive** — Simple photograph capture, no special equipment needed
+- **Universally Applicable** — Works across all livestock species (cattle, sheep, goats, etc.)
+
+This biometric approach provides superior security compared to traditional identification methods and forms the foundation of the ownership verification system.
 
 ---
 
-## 📦 Setup Instructions
+## 📦 Installation & Setup
 
-Setup steps will be documented as the Android app and backend services are finalized for public use.
+### Prerequisites
+- Android 8.0+ device
+- Supabase account (free tier available)
+- Backend service running (FastAPI)
+
+### Mobile App Setup
+Detailed setup instructions for building and installing the Android app are in the `app/` directory.
+
+### Backend Setup
+FastAPI backend configuration and deployment instructions are documented in the backend repository.
+
+### Getting Started
+1. Clone this repository
+2. Install dependencies as per the README in each module
+3. Configure Supabase credentials
+4. Build the Android app or start the backend service
+5. Register your first animal and capture muzzle biometrics
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Please feel free to:
+- Report bugs and issues
+- Suggest new features
+- Submit pull requests
+- Improve documentation
+
+---
+
+## 📞 Support & Contact
+
+For questions, feedback, or support, please open an issue in the repository.
 
 ---
 
 ## 📄 License
 
-This project is released under the MIT License.
-
-<!-- README update 1 -->
-
-<!-- README update 2 -->
-
-<!-- README update 3 -->
-
-<!-- README update 4 -->
-
-<!-- README update 5 -->
-
-<!-- README update 6 -->
-
-<!-- README update 7 -->
-
-<!-- README update 8 -->
-
-<!-- README update 9 -->
-
-<!-- README update 10 -->
+This project is released under the **MIT License**. See [LICENSE.txt](LICENSE.txt) for full details.
