@@ -62,6 +62,34 @@ Our solution uses **biometric muzzle recognition** to create an immutable, uniqu
 
 ---
 
+## 🎯 Key Features
+
+### 📱 Mobile Features
+- **Real-time Muzzle Recognition** — AI-powered identification using photos
+- **Offline Mode** — Works without internet connection
+- **Multi-Animal Dashboard** — Manage entire livestock inventory from one app
+- **Photo Gallery Integration** — Capture or upload muzzle photos
+
+### 🔒 Security & Verification
+- **Cryptographic Proof of Ownership** — Unforgeable ownership certificates
+- **Blockchain-ready** — Foundation for immutable ledger integration
+- **Encrypted Storage** — All sensitive data encrypted end-to-end
+- **Audit Trail** — Complete history of all transactions and changes
+
+### ☁️ Cloud Capabilities
+- **Real-time Sync** — Automatic backup across all devices
+- **Theft Alert System** — Instant notifications for flagged animals
+- **Cross-device Access** — Seamless experience on phone, tablet, and web
+- **Export & Reporting** — Generate reports for authorities or insurance
+
+### 🐄 Livestock Management
+- **Health Tracking** — Log vaccinations, treatments, and medical history
+- **Breed & Genealogy** — Maintain family trees and breed records
+- **Location History** — Track where animals have been
+- **Custom Tags** — Add custom fields for your farm's needs
+
+---
+
 ## 📸 Screenshots
 
 Screenshots will be added as the app UI and core features are finalized.
