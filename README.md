@@ -232,13 +232,62 @@ uvicorn main:app --reload
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Development
 
-We welcome contributions! Please feel free to:
-- Report bugs and issues
-- Suggest new features
-- Submit pull requests
-- Improve documentation
+We welcome contributions from the community! Here's how you can help:
+
+### 🐛 Report Issues
+- Found a bug? Please [open an issue](../../issues) with:
+  - Detailed description of the problem
+  - Steps to reproduce
+  - Device/OS information
+  - Screenshots or logs if applicable
+
+### ✨ Suggest Features
+- Have an idea? [Create a feature request](../../discussions)
+- Explain the use case and expected behavior
+- Reference related issues or PRs if applicable
+
+### 💻 Submit Code
+
+#### Setup Development Environment
+1. Fork the repository
+2. Clone your fork: `git clone https://github.com/yourusername/Livestock-Guardian.git`
+3. Create a feature branch: `git checkout -b feature/your-feature-name`
+4. Set up your development environment:
+   - For mobile: Follow [ANDROID_GUIDELINES.md](ANDROID_GUIDELINES.md)
+   - For backend: Follow [DEVELOPMENT.md](DEVELOPMENT.md)
+
+#### Coding Standards
+- Follow the guidelines in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- Mobile code: See [ANDROID_GUIDELINES.md](ANDROID_GUIDELINES.md)
+- Backend code: See [BACKEND_GUIDELINES.md](BACKEND_GUIDELINES.md)
+- Documentation: See [DOCUMENTATION_STANDARDS.md](DOCUMENTATION_STANDARDS.md)
+
+#### Testing & Quality
+- Write tests for your changes (see [TESTING.md](TESTING.md))
+- Ensure all tests pass: `./gradlew test` (mobile) or `pytest` (backend)
+- Run linters and fix any issues before submitting
+
+#### Submit a Pull Request
+1. Commit with clear, descriptive messages
+2. Push to your fork
+3. Open a PR with detailed description of changes
+4. Link any related issues: "Fixes #123"
+5. Wait for code review and feedback
+6. Make requested changes and push updates
+
+### 🎓 Developer Resources
+- [ARCHITECTURE.md](ARCHITECTURE.md) — Understand the system design
+- [DATABASE_SCHEMA.md](DATABASE_SCHEMA.md) — Learn the data model
+- [API_DOCUMENTATION.md](API_DOCUMENTATION.md) — API reference
+- [TROUBLESHOOTING.md](TROUBLESHOOTING.md) — Common issues
+- [PERFORMANCE.md](PERFORMANCE.md) — Optimization techniques
+
+### 📝 Improve Documentation
+- Spotted a typo or unclear docs? Submit a PR
+- Help translate documentation to other languages
+- Improve code examples and tutorials
 
 ---
 
