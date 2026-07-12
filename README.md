@@ -139,6 +139,28 @@ This biometric approach provides superior security compared to traditional ident
 
 ---
 
+## 📚 Documentation
+
+Explore our comprehensive documentation:
+
+| Documentation | Purpose |
+|---------------|---------|
+| [API_DOCUMENTATION.md](API_DOCUMENTATION.md) | Complete API endpoints and usage |
+| [ARCHITECTURE.md](ARCHITECTURE.md) | System design and architecture overview |
+| [DEVELOPMENT.md](DEVELOPMENT.md) | Developer setup and workflow |
+| [DATABASE_SCHEMA.md](DATABASE_SCHEMA.md) | Database structure and relationships |
+| [BACKEND_GUIDELINES.md](BACKEND_GUIDELINES.md) | Backend code standards and practices |
+| [ANDROID_GUIDELINES.md](ANDROID_GUIDELINES.md) | Mobile development standards |
+| [DEPLOYMENT.md](DEPLOYMENT.md) | Production deployment guide |
+| [SECURITY.md](SECURITY.md) | Security best practices and threat model |
+| [TESTING.md](TESTING.md) | Testing strategy and guidelines |
+| [TROUBLESHOOTING.md](TROUBLESHOOTING.md) | Common issues and solutions |
+| [ML_DEVELOPMENT.md](ML_DEVELOPMENT.md) | Machine learning model development |
+| [PERFORMANCE.md](PERFORMANCE.md) | Performance optimization tips |
+| [USER_GUIDE.md](USER_GUIDE.md) | End-user documentation |
+
+---
+
 ## 📦 Installation & Setup
 
 ### Prerequisites
