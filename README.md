@@ -19,7 +19,36 @@ The app is designed to be practical, scalable, and useful for modern livestock m
 
 ---
 
-## 📌 Problem Statement
+## � Quick Start (5 minutes)
+
+**New users?** Get started in just a few steps:
+
+1. **Download the App**
+   - Get the latest APK from the `apk/` folder or build from source in `app/`
+
+2. **Install & Open**
+   - Install on your Android device (8.0+)
+   - Grant camera and storage permissions when prompted
+
+3. **Create Account**
+   - Sign up with email or use demo mode
+   - Set up your farm profile
+
+4. **Register Your First Animal**
+   - Tap "Add Animal" and enter basic info (name, breed, etc.)
+   - Take a clear photo of the animal's **muzzle** (nose/mouth area)
+   - The AI analyzes and creates a unique biometric identity
+
+5. **Access Anywhere**
+   - Your data syncs automatically to the cloud
+   - Access from web dashboard or mobile app
+   - Identify animals instantly with new photos
+
+➡️ **For detailed setup instructions**, see [Installation & Setup](#-installation--setup)
+
+---
+
+## �📌 Problem Statement
 
 Livestock theft and ownership disputes are significant challenges in agriculture worldwide, affecting small and medium-scale farmers most severely.
 
