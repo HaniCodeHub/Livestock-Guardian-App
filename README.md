@@ -113,22 +113,71 @@ This biometric approach provides superior security compared to traditional ident
 ## 📦 Installation & Setup
 
 ### Prerequisites
-- Android 8.0+ device
-- Supabase account (free tier available)
-- Backend service running (FastAPI)
+- **Android Device**: Android 8.0+ (for mobile app)
+- **Development Tools**: 
+  - Android Studio 2022.1+ (for building from source)
+  - Java JDK 11 or higher
+- **Backend Requirements**:
+  - Python 3.8+
+  - Docker (recommended for backend deployment)
+- **Cloud Account**: Free Supabase account (https://supabase.com)
 
-### Mobile App Setup
-Detailed setup instructions for building and installing the Android app are in the `app/` directory.
+### 1️⃣ Mobile App Setup
 
-### Backend Setup
-FastAPI backend configuration and deployment instructions are documented in the backend repository.
+#### Option A: Download Pre-built APK
+1. Go to the `apk/` directory in this repository
+2. Download the latest `.apk` file
+3. Transfer to your Android device
+4. Open file manager and tap the APK to install
+5. Grant necessary permissions (Camera, Storage, Contacts)
+
+#### Option B: Build from Source
+1. Clone this repository: `git clone https://github.com/yourusername/Livestock-Guardian.git`
+2. Open the `app/LivestockGuardian/` directory in Android Studio
+3. Sync Gradle files: **File > Sync Now**
+4. Configure `local.properties` with your Android SDK path
+5. Build the app: **Build > Build Bundle(s) / APK(s) > Build APK(s)**
+6. Find the APK in `app/build/outputs/apk/`
+
+### 2️⃣ Backend Setup
+
+Detailed backend setup instructions are available in the backend repository or `DEVELOPMENT.md`.
+
+Quick start:
+```bash
+# Clone backend repository
+git clone https://github.com/yourusername/Livestock-Guardian-Backend.git
+cd Livestock-Guardian-Backend
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Configure environment variables
+cp .env.example .env
+
+# Run development server
+uvicorn main:app --reload
+```
+
+### 3️⃣ Supabase Configuration
+
+1. Create a Supabase account at https://supabase.com
+2. Create a new project
+3. Get your API credentials from **Settings > API**
+4. Configure these in your app's `local.properties` or environment variables:
+   ```
+   SUPABASE_URL=your_project_url
+   SUPABASE_ANON_KEY=your_anonymous_key
+   ```
 
 ### Getting Started
 1. Clone this repository
-2. Install dependencies as per the README in each module
+2. Follow the setup instructions for mobile app and backend
 3. Configure Supabase credentials
-4. Build the Android app or start the backend service
-5. Register your first animal and capture muzzle biometrics
+4. Launch the app on your device
+5. Create an account or login
+6. Register your first animal and capture muzzle biometrics
+7. Upload to cloud and start tracking
 
 ---
 
