@@ -8,6 +8,8 @@ An Android application that uses biometric muzzle recognition, artificial intell
 
 This project is actively being improved for practical farm and livestock management use by combining smart recognition with real-world livestock operations.
 
+The repository is maintained with regular documentation updates to support both new users and contributors.
+
 It aims to support safer animal tracking and ownership verification in real-world agricultural settings.
 
 The app is designed to be practical, scalable, and useful for modern livestock management workflows.
