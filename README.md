@@ -14,6 +14,8 @@ It aims to support safer animal tracking and ownership verification in real-worl
 
 The app is designed to be practical, scalable, and useful for modern livestock management workflows.
 
+This README is being refined to make the project easier to understand for both farmers and developers.
+
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-blue)
 ![Database](https://img.shields.io/badge/Database-Supabase-green)
