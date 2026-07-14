@@ -27,6 +27,8 @@ This README is being refined to make the project easier to understand for both f
 
 **New users?** Get started in just a few steps:
 
+This section is being kept concise so the main setup flow remains easy to follow.
+
 1. **Download the App**
    - Get the latest APK from the `apk/` folder or build from source in `app/`
 
