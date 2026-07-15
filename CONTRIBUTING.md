@@ -42,6 +42,11 @@ We'd love to hear your ideas! Please create an issue describing:
 - Why you think it's valuable
 - Potential implementation approach
 
+## Templates to use
+
+- Use the issue templates in `.github/ISSUE_TEMPLATE/` for bug reports and feature requests
+- Use `.github/PULL_REQUEST_TEMPLATE.md` when opening a pull request
+
 ## Code of Conduct
 
 Be respectful and professional in all interactions. We are committed to providing a welcoming and inclusive environment.
