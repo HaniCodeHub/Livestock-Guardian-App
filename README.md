@@ -243,14 +243,14 @@ uvicorn main:app --reload
 We welcome contributions from the community! Here's how you can help:
 
 ### 🐛 Report Issues
-- Found a bug? Please [open an issue](../../issues) with:
+- Found a bug? Please [open an issue](https://github.com/HaniCodeHub/Livestock-Guardian/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+) with:
   - Detailed description of the problem
   - Steps to reproduce
   - Device/OS information
   - Screenshots or logs if applicable
 
 ### ✨ Suggest Features
-- Have an idea? [Create a feature request](../../discussions)
+- Have an idea? [create a feature request](https://github.com/HaniCodeHub/Livestock-Guardian/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE%5D+) using the template
 - Explain the use case and expected behavior
 - Reference related issues or PRs if applicable
 
