@@ -76,6 +76,8 @@ Our solution uses **biometric muzzle recognition** to create an immutable, uniqu
 
 **Livestock Guardian** provides farmers and livestock owners with:
 
+- **Practical Farm Workflow Support** — Designed for daily livestock operations, not just experimental demos
+
 - **Quick Registration** — Add animals to your inventory with basic details
 - **Biometric Capture** — Photograph the animal's muzzle (highly distinctive pattern)
 - **AI-Powered Identification** — Instantly identify animals from new photos
