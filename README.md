@@ -16,6 +16,8 @@ The app is designed to be practical, scalable, and useful for modern livestock m
 
 This README is being refined to make the project easier to understand for both farmers and developers.
 
+> Project status: the app and documentation are being actively refined to make deployment, onboarding, and contribution easier for the community.
+
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-blue)
 ![Database](https://img.shields.io/badge/Database-Supabase-green)
