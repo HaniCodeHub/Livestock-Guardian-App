@@ -16,6 +16,11 @@ The app is designed to be practical, scalable, and useful for modern livestock m
 
 This README is being refined to make the project easier to understand for both farmers and developers.
 
+Key goals of the project:
+- Make livestock identification faster and more reliable
+- Reduce theft and ownership disputes with verifiable records
+- Provide a scalable foundation for real-world farm operations
+
 > Project status: the app and documentation are being actively refined to make deployment, onboarding, and contribution easier for the community.
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
@@ -25,7 +30,7 @@ This README is being refined to make the project easier to understand for both f
 
 ---
 
-## � Quick Start (5 minutes)
+## ⚡ Quick Start (5 minutes)
 
 **New users?** Get started in just a few steps:
 
@@ -58,7 +63,7 @@ This section is being kept concise so the main setup flow remains easy to follow
 
 ---
 
-## �📌 Problem Statement
+## 📌 Problem Statement
 
 Livestock theft and ownership disputes are significant challenges in agriculture worldwide, affecting small and medium-scale farmers most severely.
 
