@@ -155,6 +155,8 @@ This biometric approach provides superior security compared to traditional ident
 
 Explore our comprehensive documentation:
 
+> The documentation set is being expanded regularly to support both end users and contributors.
+
 | Documentation | Purpose |
 |---------------|---------|
 | [API_DOCUMENTATION.md](API_DOCUMENTATION.md) | Complete API endpoints and usage |
