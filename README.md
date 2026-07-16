@@ -31,6 +31,8 @@ This README is being refined to make the project easier to understand for both f
 
 This section is being kept concise so the main setup flow remains easy to follow.
 
+> Tip: if you are testing the app for the first time, start with the demo flow before registering real animals.
+
 1. **Download the App**
    - Get the latest APK from the `apk/` folder or build from source in `app/`
 
