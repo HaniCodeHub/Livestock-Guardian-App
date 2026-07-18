@@ -190,6 +190,10 @@ The project is being shaped so it can grow from a small farm tool into a broader
 ### Expected Outcomes
 A stronger digital record system can improve accountability, reduce theft risk, and make animal verification faster.
 
+
+### Community Value
+Open collaboration helps improve the app for real-world agricultural challenges and supports wider adoption.
+
 ## 📚 Documentation
 
 Explore our comprehensive documentation:
