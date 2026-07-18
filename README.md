@@ -178,6 +178,10 @@ Reliable animal records can reduce disputes, improve traceability, and strengthe
 ### User Experience
 The workflow is designed to stay simple enough for daily use while still supporting advanced verification features.
 
+
+### Privacy Note
+Sensitive data should be handled carefully, and the system should support secure, permission-based access to livestock records.
+
 ## 📚 Documentation
 
 Explore our comprehensive documentation:
