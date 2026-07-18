@@ -198,6 +198,10 @@ Open collaboration helps improve the app for real-world agricultural challenges 
 ### Future Direction
 Future updates can expand analytics, reporting, and mobile workflow support for different livestock use cases.
 
+
+### Contribution Reminder
+Small consistent improvements such as documentation, setup notes, and usability updates all help the project move forward.
+
 ## 📚 Documentation
 
 Explore our comprehensive documentation:
