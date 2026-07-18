@@ -21,6 +21,12 @@ Key goals of the project:
 - Reduce theft and ownership disputes with verifiable records
 - Provide a scalable foundation for real-world farm operations
 
+How the system works:
+- Farmers register animals with basic details and a muzzle photo
+- The AI model creates a biometric profile for each animal
+- New photos can be compared against stored profiles for quick identification
+- Verified records can support ownership proof, tracking, and theft reporting
+
 > Project status: the app and documentation are being actively refined to make deployment, onboarding, and contribution easier for the community.
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
@@ -202,7 +208,7 @@ Explore our comprehensive documentation:
 5. Grant necessary permissions (Camera, Storage, Contacts)
 
 #### Option B: Build from Source
-1. Clone this repository: `git clone https://github.com/yourusername/Livestock-Guardian.git`
+1. Clone this repository: `git clone https://github.com/HaniCodeHub/Livestock-Guardian.git`
 2. Open the `app/LivestockGuardian/` directory in Android Studio
 3. Sync Gradle files: **File > Sync Now**
 4. Configure `local.properties` with your Android SDK path
@@ -216,7 +222,7 @@ Detailed backend setup instructions are available in the backend repository or `
 Quick start:
 ```bash
 # Clone backend repository
-git clone https://github.com/yourusername/Livestock-Guardian-Backend.git
+git clone https://github.com/HaniCodeHub/Livestock-Guardian-Backend.git
 cd Livestock-Guardian-Backend
 
 # Install dependencies
@@ -271,7 +277,7 @@ We welcome contributions from the community! Here's how you can help:
 
 #### Setup Development Environment
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/Livestock-Guardian.git`
+2. Clone your fork: `git clone https://github.com/HaniCodeHub/Livestock-Guardian.git`
 3. Create a feature branch: `git checkout -b feature/your-feature-name`
 4. Set up your development environment:
    - For mobile: Follow [ANDROID_GUIDELINES.md](ANDROID_GUIDELINES.md)
