@@ -162,6 +162,10 @@ This biometric approach provides superior security compared to traditional ident
 
 ---
 
+
+### Project Purpose
+This project is intended to support modern livestock operations with practical, affordable tools for animal identification and verification.
+
 ## 📚 Documentation
 
 Explore our comprehensive documentation:
