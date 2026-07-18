@@ -194,6 +194,10 @@ A stronger digital record system can improve accountability, reduce theft risk, 
 ### Community Value
 Open collaboration helps improve the app for real-world agricultural challenges and supports wider adoption.
 
+
+### Future Direction
+Future updates can expand analytics, reporting, and mobile workflow support for different livestock use cases.
+
 ## 📚 Documentation
 
 Explore our comprehensive documentation:
