@@ -166,6 +166,10 @@ This biometric approach provides superior security compared to traditional ident
 ### Project Purpose
 This project is intended to support modern livestock operations with practical, affordable tools for animal identification and verification.
 
+
+### Who It Helps
+The app is designed for farmers, livestock owners, cooperatives, and organizations that need a dependable way to track and verify animals.
+
 ## 📚 Documentation
 
 Explore our comprehensive documentation:
