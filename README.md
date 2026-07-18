@@ -174,6 +174,10 @@ The app is designed for farmers, livestock owners, cooperatives, and organizatio
 ### Why It Matters
 Reliable animal records can reduce disputes, improve traceability, and strengthen confidence in farm operations.
 
+
+### User Experience
+The workflow is designed to stay simple enough for daily use while still supporting advanced verification features.
+
 ## 📚 Documentation
 
 Explore our comprehensive documentation:
