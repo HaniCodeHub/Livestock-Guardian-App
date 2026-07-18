@@ -182,6 +182,10 @@ The workflow is designed to stay simple enough for daily use while still support
 ### Privacy Note
 Sensitive data should be handled carefully, and the system should support secure, permission-based access to livestock records.
 
+
+### Scalability Focus
+The project is being shaped so it can grow from a small farm tool into a broader livestock management platform.
+
 ## 📚 Documentation
 
 Explore our comprehensive documentation:
