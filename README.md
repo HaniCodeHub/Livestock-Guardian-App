@@ -170,6 +170,10 @@ This project is intended to support modern livestock operations with practical, 
 ### Who It Helps
 The app is designed for farmers, livestock owners, cooperatives, and organizations that need a dependable way to track and verify animals.
 
+
+### Why It Matters
+Reliable animal records can reduce disputes, improve traceability, and strengthen confidence in farm operations.
+
 ## 📚 Documentation
 
 Explore our comprehensive documentation:
